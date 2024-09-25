@@ -1,0 +1,13 @@
+title: "Maestroで始めるE2Eテスト"
+summary: |-
+  この本はMaestroを使ってE2Eテストをするためのノウハウを解説します。
+topics:
+  - "test"
+  - "mobile"
+  - "e2e"
+  - "maestro"
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - about
